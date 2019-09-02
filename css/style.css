@@ -1,0 +1,197 @@
+body {
+    margin:0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.head {
+    width:100%;
+    height:800px;
+    background-color:#a4a4a4;
+}
+.headinside {
+    width:100%;
+    max-width:1200px;
+    margin:auto;
+    padding-top:20px
+}
+.logo {
+    float:left;
+    width:50%;
+    font-size:30px;
+    line-height:34px;
+    height:34px;
+    line-height:34px
+}
+.menu {
+    width:50%;
+    float:right;
+    height:34px;
+    margin-top:-20px;
+}
+.menu ul {
+    float:left;
+    font-weight:bold;
+}
+.menu ul li {
+    list-style:none;
+    margin-left:10px;
+    float:left;
+    height:40px;
+    width:100px;
+    line-height:40px;
+    text-align:center;
+}
+.menu ul li a {
+    text-decoration:none;
+    color:black;
+}
+.menu ul li:hover {
+    border: solid black 2px;
+    cursor:pointer;
+    border-radius:5px
+}
+.frase1 {
+    margin-top:300px;
+    text-align:center;
+    font-weight:bold;
+    font-size:30px;
+}
+.divisao {
+    background-color:white;
+    width:100%;
+    height:40px;
+}
+.corpo1 {
+    width:100%;
+    height:800px;
+}
+.corpo1left {
+    height:800px;
+    width:30%;
+    background-color:#282828;
+    float:left;
+    z-index:1;
+}
+.corpo1right {
+    height:800px;
+    width:70%;
+    background-color:#dedede;
+    float:right;
+    z-index:1;
+}
+.sobre {
+    width:50px;
+    margin:auto;
+    font-size:40px;
+    text-align:center;
+    padding-left:150px;
+    padding-top:80px;
+}
+.texto1 {
+    width:700px;
+    margin:auto;
+    font-size:20px;
+    padding-left:250px;
+    padding-top:30px;
+}
+.foto {
+    width:400px;
+    height:529px;
+    background-color:#f0eeee;
+    z-index:2;
+    position:relative;
+    margin-top:-550px;
+    margin-left:-200px;  
+}
+.divisao2 {
+    background-color:white;
+    width:100%;
+    height:40px;
+}
+.corpo2 {
+    width:100%;
+    height:800px;
+}
+.corpo2left {
+    width:40%;
+    height:800px;
+    background-color:#282828;
+    float:left;
+    text-align:left;
+    color:white
+}
+.post {
+    width:50px;
+    font-size:30px;
+    margin:auto;
+    margin-top:120px;
+    padding-right:80px; ;
+}
+.texto2 {
+    width:450px;
+    margin:auto;
+    margin-top:70px;
+    font-size:20px;
+}
+.corpo2center {
+    width:5%;
+    height:800px;
+    background-color:white;
+    float:left;
+}
+.corpo2right {
+    width:55%;
+    height:800px;
+    background-color:#f0eeee;
+    float:right;
+}
+.bloco1 {
+    width:282px;
+    height:222px;
+    background-color:#dedede;
+    margin-left:90px;
+    margin-top:38px;
+    float:left;
+}
+.bloco2 {
+    width:282px;
+    height:222px;
+    background-color:#dedede;
+    margin-left:400px;
+    margin-top:38px;
+}
+.bloco3 {
+    width:282px;
+    height:222px;
+    background-color:#dedede;
+    margin-left:90px;
+    margin-top:25px;
+    float:left;
+}
+.bloco4 {
+    width:282px;
+    height:222px;
+    background-color:#dedede;
+    margin-left:400px;
+    margin-top:25px;
+}
+.bloco5 {
+    width:282px;
+    height:222px;
+    background-color:#dedede;
+    margin-left:90px;
+    margin-top:25px;
+    float:left;
+}
+.bloco6 {
+    width:282px;
+    height:222px;
+    background-color:#dedede;
+    margin-left:400px;
+    margin-top:25px;
+}
+.divisao3 {
+    background-color:white;
+    width:100%;
+    height:40px;
+}
