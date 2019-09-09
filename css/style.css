@@ -83,12 +83,12 @@ body {
 .tema_titulo {
     text-align: center;
     float: top;
-    padding: 9% 5% 0% 40%;
+    padding: 5% 5% 0% 40%;
 }
 .tema_texto {
-    float: top;
+    float: top; 
     text-align: left;
-    padding: 3% 5% 0% 40%;
+    padding: 1% 5% 0% 40%;
 }
 .tema_img {
     position: relative;
@@ -156,5 +156,3 @@ body {
 }
 
 /* SCROLL */
-
-.
